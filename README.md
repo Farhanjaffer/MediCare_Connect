@@ -2,7 +2,7 @@
 
 Patient Appointment Booking User interface with Chatbot
 
-## Getting Started
+## Info
 
 This project is a starting point for a Flutter application.
 
